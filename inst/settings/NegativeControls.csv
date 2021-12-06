@@ -1,0 +1,181 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+1018,1015,378256,Abnormal reflex,outcome
+1018,1015,440424,Aphasia,outcome
+1018,1015,439237,Assault,outcome
+1018,1015,378424,Astigmatism,outcome
+1018,1015,261880,Atelectasis,outcome
+1018,1015,134118,Atrophic condition of skin,outcome
+1018,1015,4224118,Bladder dysfunction,outcome
+1018,1015,80509,Bone cyst,outcome
+1018,1015,434626,Borderline personality disorder,outcome
+1018,1015,438407,Bulimia nervosa,outcome
+1018,1015,134765,Cachexia,outcome
+1018,1015,4172458,Candidiasis of skin,outcome
+1018,1015,436740,Cervical incompetence,outcome
+1018,1015,381581,Chalazion,outcome
+1018,1015,4307254,Closed fracture,outcome
+1018,1015,4047787,Colles' fracture,outcome
+1018,1015,198075,Condyloma acuminatum,outcome
+1018,1015,73302,Curvature of spine,outcome
+1018,1015,4242416,Cutis laxa,outcome
+1018,1015,433163,Deficiency of macronutrients,outcome
+1018,1015,4047269,Deformity of foot,outcome
+1018,1015,133228,Dental caries,outcome
+1018,1015,4147672,Disease due to Papilloma virus,outcome
+1018,1015,4153380,Disorder of carotid artery,outcome
+1018,1015,4140510,Disorder of lymphatic vessel,outcome
+1018,1015,433440,Dysthymia,outcome
+1018,1015,376132,Ectropion,outcome
+1018,1015,440695,Encopresis,outcome
+1018,1015,438872,Excessive eating - polyphagia,outcome
+1018,1015,78804,Fibrocystic disease of breast,outcome
+1018,1015,4131595,Fracture of radius,outcome
+1018,1015,74855,Genital herpes simplex,outcome
+1018,1015,441788,Human papilloma virus infection,outcome
+1018,1015,76737,Hydrocele,outcome
+1018,1015,4029582,Hyperandrogenization syndrome,outcome
+1018,1015,195212,Hypercortisolism,outcome
+1018,1015,438134,Hypersomnia,outcome
+1018,1015,140362,Hypoparathyroidism,outcome
+1018,1015,4322737,Infection of tooth,outcome
+1018,1015,4207688,Infectious enteritis,outcome
+1018,1015,79072,Inflammatory disorder of breast,outcome
+1018,1015,139099,Ingrowing nail,outcome
+1018,1015,4288544,Inguinal hernia,outcome
+1018,1015,444191,Injury of face,outcome
+1018,1015,444130,Injury of foot,outcome
+1018,1015,134222,Injury of forearm,outcome
+1018,1015,4029966,Intracranial aneurysm,outcome
+1018,1015,437409,Intracranial injury,outcome
+1018,1015,4297984,Local infection of wound,outcome
+1018,1015,4018050,Localized infection,outcome
+1018,1015,439840,Lymphangitis,outcome
+1018,1015,4163232,Mastitis,outcome
+1018,1015,440389,Mental retardation,outcome
+1018,1015,436100,Narcolepsy,outcome
+1018,1015,4262178,Neurogenic dysfunction of the urinary bladder,outcome
+1018,1015,193874,Nocturnal enuresis,outcome
+1018,1015,4171549,Nodular goiter,outcome
+1018,1015,442274,Oligomenorrhea,outcome
+1018,1015,4215978,Onychomycosis,outcome
+1018,1015,4171915,Orchitis,outcome
+1018,1015,380731,Otitis externa,outcome
+1018,1015,378160,Otorrhea,outcome
+1018,1015,192606,Paraplegia,outcome
+1018,1015,253796,Pneumothorax,outcome
+1018,1015,195501,Polycystic ovaries,outcome
+1018,1015,4153877,Post-traumatic wound infection,outcome
+1018,1015,434319,Premature ejaculation,outcome
+1018,1015,373478,Presbyopia,outcome
+1018,1015,199876,Prolapse of female genital organs,outcome
+1018,1015,4295888,Prolapse of intestine,outcome
+1018,1015,194997,Prostatitis,outcome
+1018,1015,4146239,Pruritus of genital organs,outcome
+1018,1015,4285569,Pupillary disorder,outcome
+1018,1015,81336,Rectal prolapse,outcome
+1018,1015,380395,Retinal dystrophy,outcome
+1018,1015,141825,Simple goiter,outcome
+1018,1015,137054,Skin striae,outcome
+1018,1015,434630,Sleep-wake schedule disorder,outcome
+1018,1015,4195698,Tenosynovitis,outcome
+1018,1015,4339088,Testicular mass,outcome
+1018,1015,133141,Tinea pedis,outcome
+1018,1015,440814,Torticollis,outcome
+1018,1015,435140,Toxic effect of alcohol,outcome
+1018,1015,4270490,Tracheitis,outcome
+1018,1015,4028970,Tracheobronchitis,outcome
+1018,1015,193326,Urge incontinence of urine,outcome
+1018,1015,4092565,Uterine prolapse,outcome
+1018,1015,140641,Verruca vulgaris,outcome
+1018,1015,197036,Vesicoureteric reflux,outcome
+1018,1015,261326,Viral pneumonia,outcome
+1034,1035,378256,Abnormal reflex,outcome
+1034,1035,440424,Aphasia,outcome
+1034,1035,439237,Assault,outcome
+1034,1035,378424,Astigmatism,outcome
+1034,1035,261880,Atelectasis,outcome
+1034,1035,134118,Atrophic condition of skin,outcome
+1034,1035,4224118,Bladder dysfunction,outcome
+1034,1035,80509,Bone cyst,outcome
+1034,1035,434626,Borderline personality disorder,outcome
+1034,1035,438407,Bulimia nervosa,outcome
+1034,1035,134765,Cachexia,outcome
+1034,1035,4172458,Candidiasis of skin,outcome
+1034,1035,436740,Cervical incompetence,outcome
+1034,1035,381581,Chalazion,outcome
+1034,1035,4307254,Closed fracture,outcome
+1034,1035,4047787,Colles' fracture,outcome
+1034,1035,198075,Condyloma acuminatum,outcome
+1034,1035,73302,Curvature of spine,outcome
+1034,1035,4242416,Cutis laxa,outcome
+1034,1035,433163,Deficiency of macronutrients,outcome
+1034,1035,4047269,Deformity of foot,outcome
+1034,1035,133228,Dental caries,outcome
+1034,1035,4147672,Disease due to Papilloma virus,outcome
+1034,1035,4153380,Disorder of carotid artery,outcome
+1034,1035,4140510,Disorder of lymphatic vessel,outcome
+1034,1035,433440,Dysthymia,outcome
+1034,1035,376132,Ectropion,outcome
+1034,1035,440695,Encopresis,outcome
+1034,1035,438872,Excessive eating - polyphagia,outcome
+1034,1035,78804,Fibrocystic disease of breast,outcome
+1034,1035,4131595,Fracture of radius,outcome
+1034,1035,74855,Genital herpes simplex,outcome
+1034,1035,441788,Human papilloma virus infection,outcome
+1034,1035,76737,Hydrocele,outcome
+1034,1035,4029582,Hyperandrogenization syndrome,outcome
+1034,1035,195212,Hypercortisolism,outcome
+1034,1035,438134,Hypersomnia,outcome
+1034,1035,140362,Hypoparathyroidism,outcome
+1034,1035,4322737,Infection of tooth,outcome
+1034,1035,4207688,Infectious enteritis,outcome
+1034,1035,79072,Inflammatory disorder of breast,outcome
+1034,1035,139099,Ingrowing nail,outcome
+1034,1035,4288544,Inguinal hernia,outcome
+1034,1035,444191,Injury of face,outcome
+1034,1035,444130,Injury of foot,outcome
+1034,1035,134222,Injury of forearm,outcome
+1034,1035,4029966,Intracranial aneurysm,outcome
+1034,1035,437409,Intracranial injury,outcome
+1034,1035,4297984,Local infection of wound,outcome
+1034,1035,4018050,Localized infection,outcome
+1034,1035,439840,Lymphangitis,outcome
+1034,1035,4163232,Mastitis,outcome
+1034,1035,440389,Mental retardation,outcome
+1034,1035,436100,Narcolepsy,outcome
+1034,1035,4262178,Neurogenic dysfunction of the urinary bladder,outcome
+1034,1035,193874,Nocturnal enuresis,outcome
+1034,1035,4171549,Nodular goiter,outcome
+1034,1035,442274,Oligomenorrhea,outcome
+1034,1035,4215978,Onychomycosis,outcome
+1034,1035,4171915,Orchitis,outcome
+1034,1035,380731,Otitis externa,outcome
+1034,1035,378160,Otorrhea,outcome
+1034,1035,192606,Paraplegia,outcome
+1034,1035,253796,Pneumothorax,outcome
+1034,1035,195501,Polycystic ovaries,outcome
+1034,1035,4153877,Post-traumatic wound infection,outcome
+1034,1035,434319,Premature ejaculation,outcome
+1034,1035,373478,Presbyopia,outcome
+1034,1035,199876,Prolapse of female genital organs,outcome
+1034,1035,4295888,Prolapse of intestine,outcome
+1034,1035,194997,Prostatitis,outcome
+1034,1035,4146239,Pruritus of genital organs,outcome
+1034,1035,4285569,Pupillary disorder,outcome
+1034,1035,81336,Rectal prolapse,outcome
+1034,1035,380395,Retinal dystrophy,outcome
+1034,1035,141825,Simple goiter,outcome
+1034,1035,137054,Skin striae,outcome
+1034,1035,434630,Sleep-wake schedule disorder,outcome
+1034,1035,4195698,Tenosynovitis,outcome
+1034,1035,4339088,Testicular mass,outcome
+1034,1035,133141,Tinea pedis,outcome
+1034,1035,440814,Torticollis,outcome
+1034,1035,435140,Toxic effect of alcohol,outcome
+1034,1035,4270490,Tracheitis,outcome
+1034,1035,4028970,Tracheobronchitis,outcome
+1034,1035,193326,Urge incontinence of urine,outcome
+1034,1035,4092565,Uterine prolapse,outcome
+1034,1035,140641,Verruca vulgaris,outcome
+1034,1035,197036,Vesicoureteric reflux,outcome
+1034,1035,261326,Viral pneumonia,outcome

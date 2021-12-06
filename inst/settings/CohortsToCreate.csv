@@ -1,0 +1,8 @@
+atlasId,atlasName,cohortId,name
+1018,CRC_target_metformin_DM,1018,CRC_target_metformin_DM
+1015,CRC_comparator_meformin_DM,1015,CRC_comparator_meformin_DM
+451,colon cancer_0601,451,colon_cancer_0601
+50,death ssi,50,death_ssi
+1016,death from CRC ssi,1016,death_from_CRC_ssi
+1034,CRC_target_metformin180_DM,1034,CRC_target_metformin180_DM
+1035,CRC_comparator_meformin180_DM,1035,CRC_comparator_meformin180_DM
